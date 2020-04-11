@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586567021 source:c:\users\user\documents\cpp_projects\sonar_testbed\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdlib.h>
+	<math.h>
+
